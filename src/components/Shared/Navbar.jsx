@@ -14,6 +14,7 @@ const Navbar = () => {
         <li><NavLink  className={({ isActive }) => isActive ? "text-black" : ""} to='/'>Home</NavLink></li>
         <li><NavLink  className={({ isActive }) => isActive ? "text-black " : ""} to='/blogs'>Blogs</NavLink></li>
         <li><NavLink  className={({ isActive }) => isActive ? "text-black" : ""} to='/allToys'>All Toys</NavLink></li>
+        <li><NavLink  className={({ isActive }) => isActive ? "text-black" : ""} to='/contactUs'>Contact Us</NavLink></li>
         {
             user && <>
                 <li><NavLink to='/myToys'>My Toys</NavLink></li>
@@ -35,11 +36,11 @@ const Navbar = () => {
                     </div>
                     <div className='flex justify-center items-center gap-2'>
                         <a className="normal-case text-xl"><img className='w-14 h-14 rounded-full' src="https://images.unsplash.com/photo-1593085512500-5d55148d6f0d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mjl8fHRveXN8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60" alt="" /></a>
-                        <h2 className='font-bold text-2xl'>Super Heros</h2>
+                        <h2 className='font-bold text-3xl text-black'>Super Heros</h2>
                     </div>
                 </div>
                 <div className="navbar-center hidden lg:flex">
-                    <ul className="menu menu-horizontal px-1 font-bold">
+                    <ul className="menu menu-horizontal px-1 text-xl font-bold">
                         {navItem}
                     </ul>
                 </div>

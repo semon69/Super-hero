@@ -13,6 +13,7 @@ import ToyDetails from '../components/Pages/ToyDetails/ToyDetails';
 import UpdateToys from '../components/Pages/UpdateToys/UpdateToys';
 import ErrorPage from '../components/ErrorPage/ErrorPage';
 import Blogs from '../components/Pages/Blogs/Blogs';
+import ContactUs from '../components/Pages/ContactUs/ContactUs';
 
 
 const router = createBrowserRouter([
@@ -41,6 +42,10 @@ const router = createBrowserRouter([
                 path: '/allToys',
                 element: <AllToys></AllToys>,
                 loader: () => fetch('https://super-heros-server.vercel.app/allToys')
+            },
+            {
+                path:"/contactUs",
+                element:<ContactUs></ContactUs>
             },
             {
                 path:'/allToys/:id',

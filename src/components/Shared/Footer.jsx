@@ -16,7 +16,7 @@ const Footer = () => {
                     <p>Address: Sector 12, UTTARA, DHAKA. BANGLADESH</p>
                 </div>
                 <div>
-                    <p className='footer-title'>Contact us</p>
+                    <p className='footer-title'>Importance</p>
                     <p>Email: semon2k12@gmail.com</p>
                     <p>Phone: 018178888888</p>
                     <p>Address: Sector 12, UTTARA, DHAKA. BANGLADESH</p>

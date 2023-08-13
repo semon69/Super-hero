@@ -15,7 +15,7 @@ const TopTrending = () => {
                 <div className='grid grid-cols-1 lg:grid-cols-3 gap-5'>
                     <div data-aos="zoom-in" className='border border-black p-4 rounded shadow-xl my-8 bg-white'>
                         <div title='Hurry Up!' className='bgImage relative'>
-                            <p className='border bg-orange-400 text-white px-3 py-2 w-36 rounded absolute top-10 left-3 hover:bg-green-600'>5% discount</p>
+                            <p className='border bg-orange-400 text-white px-3 py-2 w-32 rounded absolute top-4 left-3 hover:bg-green-600'>5% discount</p>
                         </div>
                         <div className="flex justify-between items-center">
                             <p className='text-3xl font-bold my-3'>$50.00</p>
@@ -24,7 +24,7 @@ const TopTrending = () => {
                     </div>
                     <div data-aos="zoom-in" className='border border-black p-4 rounded shadow-xl my-8 bg-white'>
                         <div title='Next Time!' className='bgImage1 relative'>
-                            <p className='border bg-gray-400 text-white px-3 py-2 w-36 rounded absolute top-10 left-3 hover:bg-red-700'>Stock Out</p>
+                            <p className='border bg-gray-400 text-white px-3 py-2 w-32 rounded absolute top-4 left-3 hover:bg-red-700'>Stock Out</p>
                         </div>
                         <div className="flex justify-between items-center">
                             <p className='text-3xl font-bold text-orange-500 my-3'>$60.00</p>
@@ -33,7 +33,7 @@ const TopTrending = () => {
                     </div>
                     <div data-aos="zoom-in" className='border border-black p-4 rounded shadow-xl my-8 bg-white'>
                         <div title='Hurry Up!' className='bgImage2 relative'>
-                            <p className='border bg-orange-400 text-white px-3 py-2 w-36 rounded absolute top-10 left-3  hover:bg-green-600'>20% discount</p>
+                            <p className='border bg-orange-400 text-white px-3 py-2 w-32 rounded absolute top-4 left-3  hover:bg-green-600'>20% discount</p>
                         </div>
                         <div className="flex justify-between items-center">
                             <p className='text-3xl font-bold my-3'>$30.00</p>
@@ -42,7 +42,7 @@ const TopTrending = () => {
                     </div>
                     <div data-aos="zoom-in" className='border border-black p-4 rounded shadow-xl my-8 bg-white'>
                         <div title='Next Time!' className='bgImage3 relative'>
-                            <p className='border bg-gray-400 text-white px-3 py-2 w-36 rounded absolute top-10 left-3 hover:bg-red-700'>Stock Out</p>
+                            <p className='border bg-gray-400 text-white px-3 py-2 w-32 rounded absolute top-4 left-3 hover:bg-red-700'>Stock Out</p>
                         </div>
                         <div className="flex justify-between items-center">
                             <p className='text-3xl font-bold my-3'>$45.00</p>
@@ -51,7 +51,7 @@ const TopTrending = () => {
                     </div>
                     <div data-aos="zoom-in" className='border border-black p-4 rounded shadow-xl my-8 bg-white'>
                         <div title='Hurry Up!' className='bgImage4 relative'>
-                            <p className='border bg-orange-400 text-white px-3 py-2 w-36 rounded absolute top-10 left-3  hover:bg-green-600'>10% discount</p>
+                            <p className='border bg-orange-400 text-white px-3 py-2 w-32 rounded absolute top-4 left-3  hover:bg-green-600'>10% discount</p>
                         </div>
                         <div className="flex justify-between items-center">
                             <p className='text-3xl font-bold my-3'>$50.00</p>
@@ -60,7 +60,7 @@ const TopTrending = () => {
                     </div>
                     <div data-aos="zoom-in" className='border border-black p-4 rounded shadow-xl my-8 bg-white'>
                         <div title='Hurry Up!' className='bgImage5 relative'>
-                            <p className='border bg-orange-400 text-white px-3 py-2 w-36 rounded absolute top-10 left-3  hover:bg-green-600'>14% discount</p>
+                            <p className='border bg-orange-400 text-white px-3 py-2 w-32 rounded absolute top-4 left-3  hover:bg-green-600'>14% discount</p>
                         </div>
                         <div className="flex justify-between items-center">
                             <p className='text-3xl font-bold my-3'>$55.00</p>

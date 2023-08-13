@@ -11,7 +11,7 @@ const Gallery = () => {
             <h1 className='text-5xl font-bold border-l-8 border-orange-500 text-white px-2'>Gallery</h1>
             <div className='my-7 '>
                 <div className='text-center mb-8'>
-                    <h1 className='text-5xl text-black font-bold my-4 text-white'>Choose Your Favorite <br /> <span className='text-orange-500'>Toys Character</span> </h1>
+                    <h1 className='text-5xl font-bold my-4 text-white'>Choose Your Favorite <br /> <span className='text-orange-500'>Toys Character</span> </h1>
                 </div>
                 <div className='grid grid-cols-1 lg:grid-cols-3 gap-3'>
                     <div>
