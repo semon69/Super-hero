@@ -19,10 +19,10 @@ const SubCategory = () => {
     return (
         <div className='max-w-7xl mx-auto'>
             <h1 className='text-5xl font-bold border-l-8 border-orange-500 text-white px-2'>Shop By Category</h1>
-            <div className='my-14 bg-orange-50 py-2 '>
+            <div className='my-8 py-2 '>
                 <Tabs>
 
-                    <TabList className='font-bold my-6 text-center'>
+                    <TabList className='font-bold my-6 text-center text-orange-500'>
                         <Tab>Avengers</Tab>
                         <Tab>Star Wars</Tab>
                         <Tab>Transformer</Tab>

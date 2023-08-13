@@ -1,0 +1,39 @@
+[
+    {
+      "id": 1,
+      "image": "https://images.unsplash.com/photo-1538051046377-5ad74dc62f95?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8c3VwZXJtYW58ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60",
+      "toyName": "Superman Action Figure",
+      "toyDescription": "Poseable action figure of the iconic Superman, complete with his red and blue costume and a flowing red cape."
+    },
+    {
+      "id": 2,
+      "image": "https://images.unsplash.com/photo-1505925456693-124134d66749?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fHNwaWRlcm1hbnxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
+      "toyName": "Spider-Man Web-Slinger Set",
+      "toyDescription": "Role-playing set that includes a Spider-Man mask and wrist-mounted web shooters, allowing kids to swing into action."
+    },
+    {
+      "id": 3,
+      "image": "https://images.unsplash.com/photo-1550747545-c896b5f89ff7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjN8fHdvbmRlciUyMHdvbWVuJTIwdG95fGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+      "toyName": "Wonder Woman Collectible Statue",
+      "toyDescription": "Exquisitely detailed collectible statue of Wonder Woman in her classic armor, capturing her strength and grace."
+    },
+    {
+      "id": 4,
+      "image": "https://images.unsplash.com/photo-1509347528160-9a9e33742cdb?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8YmF0bWFufGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+      "toyName": "Batman Batcave Playset",
+      "toyDescription": "Interactive playset featuring the Batcave, complete with a working Batcomputer, a Batmobile, and various gadgets."
+    },
+    {
+      "id": 5,
+      "image": "https://images.unsplash.com/photo-1626278664285-f796b9ee7806?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Y2FwdGFpbiUyMGFtZXJpY2F8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60",
+      "toyName": "Captain America Shield Replica",
+      "toyDescription": "Full-scale replica of Captain America's iconic shield, made from high-quality materials and perfect for display."
+    },
+    {
+      "id": 6,
+      "image": "https://images.unsplash.com/photo-1612739840009-38a1f9516866?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OTJ8fGF2ZW5nZXJzJTIwdG9weXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
+      "toyName": "Black Widow Action Doll",
+      "toyDescription": "Collectible action doll of Black Widow, featuring multiple points of articulation and her signature espionage gear."
+    }
+  ]
+  

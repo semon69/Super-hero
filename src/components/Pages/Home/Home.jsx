@@ -5,6 +5,7 @@ import Gallery from '../Gallery/Gallery';
 import TopTrending from '../ExtraSection/TopTrending';
 import useTitle from '../../../hooks/useTitle';
 import LeatestBlog from '../ExtraSection/LeatestBlog';
+import BestSellingToy from '../BestSellingToy/BestSellingToy';
 
 const Home = () => {
     useTitle('Home')
@@ -15,6 +16,7 @@ const Home = () => {
             <SubCategory></SubCategory>
             <LeatestBlog></LeatestBlog>
             <TopTrending></TopTrending>
+            <BestSellingToy></BestSellingToy>
         </div>
     );
 };

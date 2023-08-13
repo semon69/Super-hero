@@ -3,7 +3,7 @@ import React from 'react';
 const Footer = () => {
     return (
         <div className='bg-gray-900' style={{minHeight:'calc(100vh-100px)'}}>
-            <footer className="footer max-w-7xl mx-auto text-white">
+            <footer className="footer max-w-7xl mx-auto text-white py-6">
                 <div>
                     <img className='w-20 h-20 rounded-full' src="https://images.unsplash.com/photo-1593085512500-5d55148d6f0d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mjl8fHRveXN8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60" alt="" />
                     <p className='text-2xl'>Super Hero Shop Ltd</p>

@@ -24,9 +24,9 @@ const SubCategoryData = ({ data }) => {
                 <figure className="px-10 pt-10">
                     <img src={photo} alt="Shoes" className="rounded-xl w-full border-2 h-[220px]" />
                 </figure>
-                <div className="card-body text-orange-500 hover:text-white">
+                <div className="card-body hover:text-white">
                     <h2 className="font-bold text-2xl ">{toyName}</h2>
-                    <div className='flex gap-4 items-center'>
+                    <div className='flex gap-4 items-center font-bold'>
                         <p>Price: {price}</p>
                         <p>Ratting: {ratting}</p>
                     </div>
