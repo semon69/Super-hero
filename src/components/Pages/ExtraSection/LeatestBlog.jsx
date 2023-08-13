@@ -13,7 +13,7 @@ const LeatestBlog = () => {
             })
     }, [])
     return (
-        <div className='bg-gray-200 py-5 px-2 mx-2'>
+        <div className='bg-gray-200 py-5 px-2 max-w-7xl mx-auto'>
             <h1 className='text-start text-3xl text-gray-900 font-bold ms-4 hover:bg-black hover:text-white w-1/2 p-2'>Latest Toy</h1>
             <div className='grid grid-cols-1 lg:grid-cols-4 gap-4  lg:py-9'>
                 {

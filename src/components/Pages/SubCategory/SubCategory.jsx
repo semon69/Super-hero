@@ -17,7 +17,7 @@ const SubCategory = () => {
     const transformer = toys.filter(toy => toy.subCategory.toLowerCase() == 'transformer')
     // console.log(starWars)
     return (
-        <div className='my-14 bg-gray-200 py-2 mx-2'>
+        <div className='my-14 bg-gray-200 py-2 max-w-7xl mx-auto'>
             <Tabs>
                 <div>
                     <h1 className='text-3xl font-bold my-9 text-black text-start ms-4 w-72 p-3  hover:bg-black hover:text-white'>Shop by <span className='text-indigo-800'>Category</span></h1>

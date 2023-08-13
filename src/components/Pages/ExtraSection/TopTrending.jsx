@@ -6,7 +6,7 @@ import 'aos/dist/aos.css';
 const TopTrending = () => {
 
     return (
-        <div className='bg-gray-200 my-10 py-3 px-4 mx-2'>
+        <div className='bg-gray-200 my-10 py-3 px-4 max-w-7xl mx-auto'>
             <div className='text-center'>
                 <h1 className='text-start text-3xl text-gray-900 font-bold mt-3 ms-4 w-72 p-2 hover:bg-black hover:text-white'>Top Trending Toy</h1>
 

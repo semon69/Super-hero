@@ -2,15 +2,21 @@ import React from 'react';
 
 const Footer = () => {
     return (
-        <div style={{minHeight:'calc(100vh-100px)'}}>
-            <footer className="footer p-10 bg-gray-900 text-white">
+        <div className='bg-gray-900' style={{minHeight:'calc(100vh-100px)'}}>
+            <footer className="footer max-w-7xl mx-auto text-white">
                 <div>
-                    <img className='w-20 h-14 rounded-full' src="https://i.ibb.co/WpBWv4Q/hero.png" alt="" />
+                    <img className='w-20 h-20 rounded-full' src="https://images.unsplash.com/photo-1593085512500-5d55148d6f0d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mjl8fHRveXN8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60" alt="" />
                     <p className='text-2xl'>Super Hero Shop Ltd</p>
                     <p>Providing reliable toys since 1982</p>
                 </div>
                 <div>
-                    <p>Contact us</p>
+                    <p className='footer-title'>Contact us</p>
+                    <p>Email: semon2k12@gmail.com</p>
+                    <p>Phone: 018178888888</p>
+                    <p>Address: Sector 12, UTTARA, DHAKA. BANGLADESH</p>
+                </div>
+                <div>
+                    <p className='footer-title'>Contact us</p>
                     <p>Email: semon2k12@gmail.com</p>
                     <p>Phone: 018178888888</p>
                     <p>Address: Sector 12, UTTARA, DHAKA. BANGLADESH</p>
