@@ -9,8 +9,8 @@ const Gallery = () => {
     return (
         <div className='max-w-7xl mx-auto'>
             <h1 className='text-5xl font-bold border-l-8 border-orange-500 text-white px-2'>Gallery</h1>
-            <div className='my-10 bg-orange-100 p-3 '>
-                <div className='text-center'>
+            <div className='my-10 bg-orange-50 p-3 '>
+                <div className='text-center mb-8'>
                     <h1 className='text-5xl text-black font-bold my-4'>Choose Your Favorite <br /> <span className='text-orange-500'>Toys Character</span> </h1>
                 </div>
                 <div className='grid grid-cols-1 lg:grid-cols-3 gap-3'>
